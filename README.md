@@ -14,8 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java  
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | IntelliJ
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Filmora 11 | After Effects | Premiere Pro
 
